@@ -1,3 +1,3 @@
 # AsyncTaskLoader_Deliver
-Delivered example
+AsyncTaskLoader:
 It won't be interrupted by a configuration change.
